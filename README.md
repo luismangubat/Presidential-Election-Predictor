@@ -7,10 +7,8 @@ than traditional methods specifically the efficacy of a presidential speech.
 
 
 ## Findings
-Algorithms | Configuration | Accuracy |
---- | --- | --- | 
-Support Vector Machine | kernel="rbf",C=13, gamma='scale',97 Component PCA | 92.32% | 
---- | --- | --- | 
-Random Forest| Gini Index| 88.6%| 
---- | --- | --- | 
-XG boosting| gamma=0, max_tree_depth=3, n_estimatror=100| 94.1% | 
+Algorithms | Configuration | Accuracy 
+--- | --- | --- |
+Support Vector Machine | kernel="rbf",C=13, gamma='scale',97 Component PCA | 92.32% 
+Random Forest | Gini Index| 88.6%
+XG boosting| gamma=0, max_tree_depth=3, n_estimatror=100| 94.1% 
