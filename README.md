@@ -8,5 +8,5 @@ than traditional methods specifically the efficacy of a presidential speech.
 
 ## Findings
 Algorithms | Configuration | Accuracy |
---- | --- | --- | --- |
+--- | --- | --- | 
 Seconds | 301 | 283 | 290 | 
